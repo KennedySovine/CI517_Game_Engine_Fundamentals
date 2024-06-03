@@ -15,12 +15,12 @@ GameObject* backGround = nullptr;
 PlayerCharacter* pc = nullptr;
 GameObject* items[4] = {};
 GameObject* health[10] = {};
-NPC* npcs[50 ] = {}; //100
-NPC* tankNPCS[2] = {}; //100
-NPC* fastNPCS[2] = {}; //100
-Projectile* bulletsPC[1] = {}; //20
-Projectile* bulletsNPC[10] = {}; //100
-GameObject* terrainBlocks[10];//250
+NPC* npcs[80] = {}; //100
+NPC* tankNPCS[100] = {}; //100
+NPC* fastNPCS[100] = {}; //100
+Projectile* bulletsPC[20] = {}; //20
+Projectile* bulletsNPC[100] = {}; //100
+GameObject* terrainBlocks[250];//250
 Levels* levelMaps = nullptr;
 
 // Text
