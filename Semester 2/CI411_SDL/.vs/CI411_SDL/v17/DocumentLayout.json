@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\thatc\\OneDrive - University of Brighton\\Documents\\GitHub\\CI517_Game_Engine_Fundamentals\\Semester 2\\CI411_SDL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D5B829D-7199-44F5-B53E-E302A0F4B0E0}|CI411_SDL.vcxproj|C:\\Users\\thatc\\OneDrive - University of Brighton\\Documents\\GitHub\\CI517_Game_Engine_Fundamentals\\Semester 2\\CI411_SDL\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6D5B829D-7199-44F5-B53E-E302A0F4B0E0}|CI411_SDL.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D5B829D-7199-44F5-B53E-E302A0F4B0E0}|CI411_SDL.vcxproj|C:\\Users\\thatc\\OneDrive - University of Brighton\\Documents\\GitHub\\CI517_Game_Engine_Fundamentals\\Semester 2\\CI411_SDL\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6D5B829D-7199-44F5-B53E-E302A0F4B0E0}|CI411_SDL.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D5B829D-7199-44F5-B53E-E302A0F4B0E0}|CI411_SDL.vcxproj|C:\\Users\\thatc\\OneDrive - University of Brighton\\Documents\\GitHub\\CI517_Game_Engine_Fundamentals\\Semester 2\\CI411_SDL\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6D5B829D-7199-44F5-B53E-E302A0F4B0E0}|CI411_SDL.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5B829D-7199-44F5-B53E-E302A0F4B0E0}|CI411_SDL.vcxproj|C:\\Users\\thatc\\OneDrive - University of Brighton\\Documents\\GitHub\\CI517_Game_Engine_Fundamentals\\Semester 2\\CI411_SDL\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D5B829D-7199-44F5-B53E-E302A0F4B0E0}|CI411_SDL.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,41 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Game.h",
               "DocumentMoniker": "C:\\Users\\thatc\\OneDrive - University of Brighton\\Documents\\GitHub\\CI517_Game_Engine_Fundamentals\\Semester 2\\CI411_SDL\\Game.h",
               "RelativeDocumentMoniker": "Game.h",
               "ToolTip": "C:\\Users\\thatc\\OneDrive - University of Brighton\\Documents\\GitHub\\CI517_Game_Engine_Fundamentals\\Semester 2\\CI411_SDL\\Game.h",
               "RelativeToolTip": "Game.h",
-              "ViewState": "AQIAABUAAAAAAAAAAAAmwDMAAAAjAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwAsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-03T14:17:58.101Z"
+              "WhenOpened": "2024-06-03T14:17:58.101Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\thatc\\OneDrive - University of Brighton\\Documents\\GitHub\\CI517_Game_Engine_Fundamentals\\Semester 2\\CI411_SDL\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "C:\\Users\\thatc\\OneDrive - University of Brighton\\Documents\\GitHub\\CI517_Game_Engine_Fundamentals\\Semester 2\\CI411_SDL\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAmwC4AAAATAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-03T14:16:50.415Z"
+              "WhenOpened": "2024-06-03T14:16:50.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Game.cpp",
               "DocumentMoniker": "C:\\Users\\thatc\\OneDrive - University of Brighton\\Documents\\GitHub\\CI517_Game_Engine_Fundamentals\\Semester 2\\CI411_SDL\\Game.cpp",
               "RelativeDocumentMoniker": "Game.cpp",
               "ToolTip": "C:\\Users\\thatc\\OneDrive - University of Brighton\\Documents\\GitHub\\CI517_Game_Engine_Fundamentals\\Semester 2\\CI411_SDL\\Game.cpp",
               "RelativeToolTip": "Game.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAcAAAA",
+              "ViewState": "AQIAAMIEAAAAAAAAAADwv8UEAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-03T14:16:02.248Z",
               "EditorCaption": ""
